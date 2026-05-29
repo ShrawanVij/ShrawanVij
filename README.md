@@ -18,9 +18,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Shrawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrawanVij&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrawanvij&langs_count=8&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShrawanVIJ)](https://git.io/streak-stats)
 
 ---
 
